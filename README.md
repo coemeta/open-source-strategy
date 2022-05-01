@@ -1,5 +1,11 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="7W4M66QGW3LT8" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 # Coεmeta Open Source Strategy Repo
 
 This is the **Open Source Strategy** repository for [Coεmeta](https://coemeta.xyz), a Public Benefit LLC providing data & sensemaking services with positive externalities. It's intended as: 
