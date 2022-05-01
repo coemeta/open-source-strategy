@@ -82,7 +82,7 @@ As [decision science](https://medium.com/coemeta/from-information-to-action-with
   - [📝  Business Plan & Model Canvas](/frameworks/business-plan-and-model-canvas.md)
   - [🧠  Logic Model](/frameworks/logic-model.md)
   - [🗺  Wardley Maps](/frameworks/wardley-maps.md)
-  - [🧮  OKRs (Objectives & Key Results](/frameworks/okrs.md)
+  - [🧮  OKRs (Objectives & Key Results)](/frameworks/okrs.md)
 
 
 ---
