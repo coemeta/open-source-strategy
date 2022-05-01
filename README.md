@@ -37,7 +37,7 @@ As [decision science](https://medium.com/coemeta/from-information-to-action-with
   - ([Optionality](https://thedeepdish.org/optionality-book/) & [OODA loops](https://en.wikipedia.org/wiki/OODA_loop) are often better than plans)
   - ["All models are wrong, but some are useful"](https://en.wikipedia.org/wiki/All_models_are_wrong)
   - See generally: [complexity science](https://en.wikipedia.org/wiki/Complex_system) & [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory), e.g. [Robert May (1976)](https://medium.com/coemeta/the-logistic-map-the-onset-of-chaos-sonified-46fd73e25965#5174)
-  - In fact the epsilon ("ε") in **__Coεmeta__** is meant as a reminder of the '[error margin](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4630.xml)' in any model, estimate or probabilistic assessment. (see further details on this etymology [in the timeline below](#-timeline))
+  - In fact the epsilon ("ε") in **__Coεmeta__** is meant as a reminder of the '[error margin](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4630.xml)' in any model, estimate or probabilistic assessment. (see further details on this etymology on the [What's in a name?](/name.md) page)
 
 </details>
 </details>
