@@ -25,7 +25,7 @@ Comments, questions & suggestions are welcome via **Pull Requests**, [**Issues**
 ### Notes on strategy, frameworks & planning
 </summary>
 
-As [decision science](https://medium.com/coemeta/from-information-to-action-with-quantitative-decision-science-9752b6c969d5#4054) practitioners & general strategy nerds, we've seen how **the right framework can simplify, clarify & streamline the task of making sense of information & (potential) actions** — __as long as we don't mistake the map for the territory__ **ᵋ**. So we've made ample use of various models & frameworks in the planning & execution of Coεmeta __to date__. 
+As [decision science](https://medium.com/coemeta/from-information-to-action-with-quantitative-decision-science-9752b6c969d5#4054) practitioners & general strategy nerds, we've seen how **the right framework can simplify, clarify & streamline the task of making sense of information & (potential) actions** — _as long as we don't mistake the map for the territory_ **ᵋ**. So we've made ample use of various models & frameworks in the planning & execution of Coεmeta _to date_. 
 
 ***Note**: this repo contains snapshots in various states of refinement & iteration. Further, the frameworks are essentially just differently shaped containers filled with mostly the same content, but the varying shapes help emphasize (& scrutinize) different dimensions of the information & underlying intent, which is in fact much of the value of such frameworks.*
 
