@@ -1,4 +1,4 @@
-# 🏛  Strategic Pillars (types of work)
+# 🏛  Strategic Pillars (types of work) — v1.0
 
 This is not so much a framework as a **simple taxonomy that underlies the overarching vision & strategy for Coεmeta,** specifically regarding the types of "work" we do. These might be thought of as "business units", "verticals", or "functional areas" in more traditional [corporate](https://www.cascade.app/blog/strategy-levels) or [functional strategy](https://www.business-to-you.com/levels-of-strategy-corporate-business-functional/).
 
