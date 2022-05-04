@@ -1,4 +1,4 @@
-# 🧠  Logic Model
+# 🧠  Logic Model v0.1
 </summary>
 
 [Logic Models](https://www.social-impact-navigator.org/planning-impact/logic-model/logic-model/) are common, longstanding frameworks in project management & social impact work, & have recently gained traction in Product Management via "[Outcomes-based planning](https://amplitude.com/blog/move-from-outputs-to-outcomes)". 
