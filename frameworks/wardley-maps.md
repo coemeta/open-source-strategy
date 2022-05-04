@@ -1,4 +1,4 @@
-# 🗺  Wardley Maps
+# 🗺  Wardley Maps — v 1.0
 </summary>
 
 [Wardley Maps](https://en.wikipedia.org/wiki/Wardley_map) are probably the most novel & exotic frameworks in this repo, but also among the most illuminating, & therefore the ones we spent the most time with. These were facilitated & refined over two super productive sessions with [Ben Mosior](https://twitter.com/HiredThought) of [Hired Thought](https://hiredthought.com/) & [LearnWardleyMapping.com](https://learnwardleymapping.com/) (highly recommended!).
