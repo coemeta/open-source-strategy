@@ -1,4 +1,4 @@
-# 📝  Business Plan & Business Model Canvas
+# 📝  Business Plan & Business Model Canvas — v1.0
 
 More standard MBA-ware, developed in consultation with local [SBDC](https://www.pasbdc.org/) & [SCORE](https://philadelphia.score.org/) organizations (both of which are free & have been enormously helpful & valuable in different ways — highly recommended!).
 
