@@ -1,4 +1,4 @@
-# 🔭  Coεmeta Mission & Vision statements
+# 🔭  Coεmeta Mission & Vision statements — v1.3
 
 ### Vision (some permutation of):
 
