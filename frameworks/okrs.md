@@ -16,7 +16,7 @@
 
 ### About OKRs
 
-[Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) or OKRs are a goal-setting framework native to Silicon Valley & made popular (or notorious) by Google. They've become [much maligned](https://twitter.com/seanjtaylor/status/1337086699118063616) & [parodied](https://twitter.com/mdavidallen/status/1181964335700221953), probably due to being [misused, overused & abused](https://twitter.com/johncutlefish/status/1499772366087340037).
+[Objectives & Key Results](https://en.wikipedia.org/wiki/OKR) or OKRs are a goal-setting framework native to Silicon Valley & made popular (or notorious) by Google. They've become [much maligned](https://twitter.com/seanjtaylor/status/1337086699118063616) & [parodied](https://twitter.com/mdavidallen/status/1181964335700221953), probably due to being [misused](https://twitter.com/johncutlefish/status/1522235499749908482), [overused & abused](https://twitter.com/johncutlefish/status/1499772366087340037).
 
 But ultimately **OKRs are about as simple & lightweight a container as imaginable** for defining **strategic __Objectives__** & assigning a few **measurable __Results__** which should represent concrete progress towards the goal. Given this simplicity & flexibility, the devil has lots of room to lurk in the details & implementation. 
 
