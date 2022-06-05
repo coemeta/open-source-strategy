@@ -9,7 +9,7 @@ The core substring __emet__ (hebrew for "truth") is borrowed from [golem folklor
 
   - In that folklore, golems are clay monsters brought to life by inscribing "emet" (truth) on their forehead, & then 'decommissioned' by scratching out the initial character, to leave "met", meaning "death".
 
-  - We play on this (a bit melodramatically, admittedly), by using an "ε" for the first "e" in **__Coεmeta__**, which is meant as a reminder of the '[error](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4630.xml) margin' in any model, estimate or probabilistic assessment
+  - We play on this (a bit melodramatically, admittedly), by using an "ε" ([epsilon](https://en.wikipedia.org/wiki/Epsilon)) for the first "e" in **__Coεmeta__**, which is meant as a reminder of the '[error](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4630.xml) margin' in any model, estimate or probabilistic assessment
 
 Beyond that, the "[co](https://en.wiktionary.org/wiki/co-)" (together) & "[meta](https://en.wikipedia.org/wiki/Meta)" (big picture) substrings should be pretty self-explanatory
 
