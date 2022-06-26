@@ -36,7 +36,7 @@ As [decision science](https://medium.com/coemeta/from-information-to-action-with
 
   - ["Plans are worthless, but planning is priceless"](https://quoteinvestigator.com/2017/11/18/planning/)
   - ["Everyone has a plan until they get punched in the mouth"](https://www.commit.works/everyone-has-a-plan-until-they-get-punched-in-the-mouth/) 
-  - ([Optionality](https://thedeepdish.org/optionality-book/) & [OODA loops](https://en.wikipedia.org/wiki/OODA_loop) are often better than plans)
+  - ([Optionality](https://thedeepdish.org/optionality-book/) & [OODA loops](https://en.wikipedia.org/wiki/OODA_loop) are often better than plans — see also [Emergent Strategy](https://alliedmedia.org/speaker-projects/emergent-strategy-ideation-institute))
   - ["All models are wrong, but some are useful"](https://en.wikipedia.org/wiki/All_models_are_wrong)
   - See generally: [complexity science](https://en.wikipedia.org/wiki/Complex_system) & [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory), e.g. [Robert May (1976)](https://medium.com/coemeta/the-logistic-map-the-onset-of-chaos-sonified-46fd73e25965#5174)
   - In fact the epsilon ("ε") in **__Coεmeta__** is meant as a reminder of the '[error margin](https://methods.sagepub.com/reference/the-sage-encyclopedia-of-communication-research-methods/i4630.xml)' in any model, estimate or probabilistic assessment. (see further details on this etymology on the [What's in a name?](/name.md) page)
