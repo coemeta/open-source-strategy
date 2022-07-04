@@ -1,14 +1,22 @@
 # 🔭  Coεmeta Mission & Vision statements — v1.4
 
-### Vision (some permutation of):
+### Slogan (via our [name](/name.md)):
 
-> **Better places**, **process** & **relation** through **better information**: _**finding truth together**_
+> _**Finding truth together**_
+
+### Vision:
+
+> **Better places**, **process** & **relation** through **better information**
 
 ### Mission: 
 
-> Act as **a lever for positive impact**, amplifying prosocial efforts by **raising the standard of empirical practice**, with a focus on **people**, **place** & **process** in **better relation**.
->
-> **Create data & sensemaking tools & services** with [**positive externalities**](https://en.wikipedia.org/wiki/Externality#Positive): supporting [**commons**](https://en.wikipedia.org/wiki/Commons), [**public goods**](https://en.wikipedia.org/wiki/Public_good_%28economics%29), [**circular**](https://en.wikipedia.org/wiki/Circular_economy) & [**solidarity economies**](https://en.wikipedia.org/wiki/Solidarity_economy) & **prosocial change**.
+> **Be a lever for positive impact**, amplifying prosocial efforts though **improved empirical practice & capacites** 
+
+
+> ...by 
+>   * **Holistic empirical sensemaking,** beyond the biased fragility of purely quantitive methods: drawing on **[qualitative](https://en.wikipedia.org/wiki/Qualitative_research)** “**[thick](https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7)**” & “**[warm data](https://warmdatalab.net/warm-data)**” embedded in **people, places, process & relations**, **[complexity](https://en.wikipedia.org/wiki/Complex_system) & [decolonial](https://warwick.ac.uk/fac/soc/ces/research/current/socialtheory/maps/decolonising/) [methods](http://sigdoc.acm.org/cdq/decolonizing-decoloniality-considering-the-misuse-of-decolonial-frameworks-in-tpc-scholarship/),** honoring **many** **[ways of knowing](https://www.criaw-icref.ca/images/userfiles/files/Fact%20Sheet%202%20EN%20FINAL.pdf)**
+>   * **Creating data & sensemaking tools & services** with [**positive externalities**](https://en.wikipedia.org/wiki/Externality#Positive): supporting [**commons**](https://en.wikipedia.org/wiki/Commons), [**public goods**](https://en.wikipedia.org/wiki/Public_good_%28economics%29), [**circular**](https://en.wikipedia.org/wiki/Circular_economy) & [**solidarity economies**](https://en.wikipedia.org/wiki/Solidarity_economy) & **prosocial change**.
+>   * **Building capacity & community** via **collaboration**, **partnership**, **mentorship** & **mutual-aid**
 
 ---
 
