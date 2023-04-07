@@ -39,15 +39,15 @@ The **dimensions** we wanted to capture & convey:
   - **Certainty of Outcome** (x-axis): for some fixed amount effort or 'input', how confident can we be in the outcome or 'payoff'
   - **Scalability (LOE vs potential outcome)** (y-axis): how high is the 'payoff' ceiling for some fixed amount of effort / input
   - **Potential Outcome Range** (inner circles, see legends): a sort of confidence interval or distribution around the range of expected outcomes or payoffs. 
-__(We're most dissatisfied with the clarity & interpretability of this element)__
+_(We're most dissatisfied with the clarity & interpretability of this element)_
   - **Feedback Loops & Interdependencies** (arrows, right-side): Fairly self-explanatory, how outputs & outcomes from one pillar / node might impact or contribute to another, & what virtuous cycles ([flywheel](https://www.hubspot.com/flywheel)!), efficiency-gains & tactics this might imply
-  - __(as is probably clear, these dimensions are not entirely orthogonal / independent from each other, but worth distinguishing to be able to reason about their relative potentials & strategic implications)__
+  - _(as is probably clear, these dimensions are not entirely orthogonal / independent from each other, but worth distinguishing to be able to reason about their relative potentials & strategic implications)_
 
 
 <details>
 <summary> 
 
-Per usual, We're not entirely satisfied with these, but they served their immediate purpose: to clarify fuzzy notions in our head, via marginally-less-fuzzy lines on a surface. The result is fairly dense with info, assumptions & implications, but if you stare & squint long enough, **some observations** emerge: (click to expand)</summary>
+As usual, we're not entirely satisfied with these, but they served their immediate purpose: to clarify fuzzy notions in our head, via marginally-less-fuzzy lines on a surface. The result is fairly dense with info, assumptions & implications, but if you stare & squint long enough, **some observations** emerge: (click to expand)</summary>
 
   - <details><summary><b>Freelance</b> work is depicted as <b>high-certainty & low-scalability</b> (`x` vs `y` axis), with a <b>narrow outcome range</b> (inner circle viz) & <b>several interdependencies</b> (arrows). Let's unpack that: </summary>
 
