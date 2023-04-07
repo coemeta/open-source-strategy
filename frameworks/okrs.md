@@ -44,7 +44,7 @@ But we've used OKRs productively both personally & within work teams, & develope
 | **Key Result 2** | Test & assess 3 revenue strategies / tactics: <br><br> (Patronage, Packaged services + outreach, Web 3 OR Solopreneur resources) | 2 collabs + 6 exchanges | Ship 4 poasts & 3 tools |
 | **Key Result 3** | Set money mgmt plan | Explore partnerships, apprenticeship etc to scale client work | Reach 800 ppl across platforms |
 
-- [2022 Q1 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/10dart3L-j4CNjs1_kAMsvfps5kuOwhH9UkbtaUEhzEg/)
+- [2022 Q2 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1sdBfK9FYPXAVAoHKcvjufuq5_6Hso2KmdGZGU8ChG8g/)
 
 ---
 
