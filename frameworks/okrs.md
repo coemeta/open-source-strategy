@@ -28,46 +28,46 @@ But we've used OKRs productively both personally & within work teams, & develope
 > *We find 3x3 OKRs (3 Objectives with 3 Key Results each) to be optimally elegant & robust — for aesthetic, numerological & practical reasons.*
 ---
 
-| `2022 Q1` | **Objective 1**: Infinite game engine (stabilize P&L) | **Objective 2**: Find the others (grow network & relations) | **Objective 3**: Serve & grow the game (commons, game~B) |
+| `2022 Q1` | **Key Result 1** | **Key Result 2** | **Key Result 3** |
 | --- | --- | --- | --- |
-| **Key Result 1** | Hit revenue break-even point by end Q1 | Add 50 frens to CRM | 5 Client outcomes / impacts / testimonials |
-| **Key Result 2** | Test & assess 3 revenue strategies / tactics: <br><br> (Web 3, Patronage, Solopreneur-focus OR Packaged services + outreach) | Build 3 org / group alliances | Ship 8 poasts & 3 tools |
-| **Key Result 3** | Set money mgmt plan | 2 collabs + 6 exchanges | Reach 800 ppl across platforms |
+| **Objective 1**: Infinite game engine (stabilize P&L) | Hit revenue break-even point by end Q1 | Test & assess 3 revenue strategies / tactics: (Web 3, Patronage, Solopreneur-focus OR Packaged services + outreach) | Set money mgmt plan |
+| **Objective 2**: Find the others (grow network & relations) | Add 50 frens to CRM | Build 3 org / group alliances | 2 collabs + 6 exchanges |
+| **Objective 3**: Serve & grow the game (commons, game~B) | 5 Client outcomes / impacts / testimonials | Ship 8 poasts & 3 tools | Reach 800 ppl across platforms |
 
 - [2022 Q1 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/10dart3L-j4CNjs1_kAMsvfps5kuOwhH9UkbtaUEhzEg/)
 
 ---
 
-| `2022 Q2` | **Objective 1**: Infinite game engine (stabilize P&L) | **Objective 2**: Find the others (grow network & relations) | **Objective 3**: Serve & grow the game (commons, game~B) |
+| `2022 Q2` | **Key Result 1** | **Key Result 2** | **Key Result 3** |
 | --- | --- | --- | --- |
-| **Key Result 1** | Maintain net profit thru Q2 | Call & steward 2 crews | 5 Client outcomes / impacts / testimonials |
-| **Key Result 2** | Test & assess 3 revenue strategies / tactics: <br><br> (Patronage, Packaged services + outreach, Web 3 OR Solopreneur resources) | 2 collabs + 6 exchanges | Ship 4 poasts & 3 tools |
-| **Key Result 3** | Set money mgmt plan | Explore partnerships, apprenticeship etc to scale client work | Reach 800 ppl across platforms |
+| **Objective 1**: Infinite game engine (stabilize P&L) | Maintain net profit thru Q2 | Test & assess 3 revenue strategies / tactics:  (Patronage, Packaged services + outreach, Web 3 OR Solopreneur resources) | Set money mgmt plan |
+| **Objective 2**: Find the others (grow network & relations) | Call & steward 2 crews | 2 collabs + 6 exchanges | Explore partnerships, apprenticeship etc to scale client work |
+| **Objective 3**: Serve & grow the game (commons, game~B) | 5 Client outcomes / impacts / testimonials | Ship 4 poasts & 3 tools | Reach 800 ppl across platforms |
 
 - [2022 Q2 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1sdBfK9FYPXAVAoHKcvjufuq5_6Hso2KmdGZGU8ChG8g/)
 
 ---
 
-| `2022 Q3` | **Objective 1**: Infinite game engine (maintain P&L) | **Objective 2**: Find the others (grow network & relations) | **Objective 3**: Serve & grow the game (commons, game~B) |
-| --- | --- | --- | --- |
-| **Key Result 1** | Maintain net profit thru Q3 | Steward & sustain crew | 5 Client outcomes / impacts / testimonials |
-| **Key Result 2** | Stabilize earn at 4x burn (costs), & rate >= 100  | 2 collabs + 6 exchanges | Ship 4 poasts & 3 tools |
-| **Key Result 3** | Set money mgmt plan | "Ramp up partnerships / apprenticeship to scale client work
-  - target: 10% of freelance time supplemented" | Reach 800 ppl across platforms |
+| `2022 Q3` | **Key Result 1** | **Key Result 2** | **Key Result 3** |
+| --- | --- | --- | --- | 
+| **Objective 1**: Infinite game engine (maintain P&L) | Maintain net profit thru Q3 | Stabilize earn at 4x burn (costs), & rate >= 100 | Set money mgmt plan |
+| **Objective 2**: Find the others (grow network & relations) | Steward & sustain crew | 2 collabs + 6 exchanges | Ramp up partnerships / apprenticeship to scale client work. target: 10% of freelance time supplemented |
+| **Objective 3**: Serve & grow the game (commons, game~B) | 5 Client outcomes / impacts / testimonials | Ship 4 poasts & 3 tools | Reach 800 ppl across platforms |
 
 - [2022 Q3 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/17A9nv2-wEIH5hiiCrrNYSSmv6eFlKlLDqBKcdoIErQg/)
 
 ---
 
-_... (skipped 2 quarters due to circumstances, see corresponding [Public Work Log](https://github.com/coemeta/public-work-log) entries: [1](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md), 2)_
+_... (skipped 2 quarters due to circumstances, see corresponding [Public Work Log](https://github.com/coemeta/public-work-log) entries: [1](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md), [2](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md))_
 
 ---
 
-| `2023 Q2` | **Objective 1**: Infinite game engine (revenue strategy) | **Objective 2**: Find the others (grow network & relations) | **Objective 3**: Serve & grow the game (commons, game~B) |
-| --- | --- | --- | --- |
-| **Key Result 1** | Sustain & share / reinvest past harvest | 3 hrs / week engaging w allied communities / platforms | Spec & prototype indie mutual aid platform mvp |
-| **Key Result 2** | Sow seeds for alt income strategies | convos with 9 folks re: indie mutual aid platform | 9 pod / vod convos |
-| **Key Result 3** | Set money mgmt plan | Steward & sustain (& expand?) crew | Ship 3 poasts & 3 tools |
+| `2023 Q2` | **Key Result 1** | **Key Result 2** | **Key Result 3** |
+| --- | --- | --- | --- | 
+| **Objective 1**: Infinite game engine (revenue strategy) | Sustain & share / reinvest past harvest | Sow seeds for alt income strategies | Set money mgmt plan |
+| **Objective 2**: Find the others (grow network & relations) | 3 hrs / week engaging w allied communities / platforms | convos with 9 folks re: indie mutual aid platform | Steward & sustain (& expand?) crew |
+| **Objective 3**: Serve & grow the game (commons, game~B) | Spec & prototype indie mutual aid platform mvp | 9 pod / vod convos | Ship 3 poasts & 3 tools |
+
 
 - [2023 Q2 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
 
@@ -77,7 +77,7 @@ Links to full sheets with evalutions, etc:
   - [2022 Q1](https://docs.google.com/spreadsheets/d/10dart3L-j4CNjs1_kAMsvfps5kuOwhH9UkbtaUEhzEg/)
   - [2022 Q2](https://docs.google.com/spreadsheets/d/1sdBfK9FYPXAVAoHKcvjufuq5_6Hso2KmdGZGU8ChG8g/)
   - [2022 Q3](https://docs.google.com/spreadsheets/d/17A9nv2-wEIH5hiiCrrNYSSmv6eFlKlLDqBKcdoIErQg/)
-  - ... 
+  - ... _(skipped 2 quarters due to circumstances, see corresponding [Public Work Log](https://github.com/coemeta/public-work-log) entries: [1](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md), [2](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md))_
   - [2023 Q2](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
 
 
