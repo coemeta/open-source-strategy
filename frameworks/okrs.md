@@ -24,7 +24,12 @@ But we've used OKRs productively both personally & within work teams, & develope
 
 ---
 
+<details>
+<summary>
+  
 ### Coεmeta OKRs by quarter
+</summary>
+
 > *We find 3x3 OKRs (3 Objectives with 3 Key Results each) to be optimally elegant & robust — for aesthetic, numerological & practical reasons.*
 ---
 
@@ -71,14 +76,20 @@ _... (skipped 2 quarters due to circumstances, see corresponding [Public Work Lo
 
 - [2023 Q2 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
 
+</details>
+  
 ---
 
-#### Links to full sheets with evalutions, etc: 
+<details>
+<summary>
+
+### Links to full sheets with evalutions, etc: 
+</summary>
+
   - [2022 Q1](https://docs.google.com/spreadsheets/d/10dart3L-j4CNjs1_kAMsvfps5kuOwhH9UkbtaUEhzEg/)
   - [2022 Q2](https://docs.google.com/spreadsheets/d/1sdBfK9FYPXAVAoHKcvjufuq5_6Hso2KmdGZGU8ChG8g/)
   - [2022 Q3](https://docs.google.com/spreadsheets/d/17A9nv2-wEIH5hiiCrrNYSSmv6eFlKlLDqBKcdoIErQg/)
   - ... _(skipped 2 quarters due to circumstances, see corresponding [Public Work Log](https://github.com/coemeta/public-work-log) entries: [1](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md), [2](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md))_
   - [2023 Q2](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
-
 
 </details>
