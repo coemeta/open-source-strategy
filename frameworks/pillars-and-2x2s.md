@@ -54,7 +54,8 @@ As usual, we're not entirely satisfied with these, but they served their immedia
       - **High-certainty**: Due to the contractual nature of this work, outcomes & payoffs are pre-specified to some degree, resulting in relatively high certainty. _NB: non-monetary outcomes (e.g. social impacts) are obviously less certain, & this does not account for the inherent uncertainty in _**_securing_**_ freelance work, but rather applies to the work itself, if & when secured._
       - **Low-scalability**: Again, due to the contractual nature, it's unlikely that we'll agree to a fixed rate & scope of work & then end up making 10x that, without an additional ~10x effort. Thus the [marginal gains](https://www.investopedia.com/terms/m/marginal-profit.asp) per unit of work are fairly constrained.
       - **Narrow outcome range**: Again related to the pre-specified _quid pro quo_ nature of contract work, the expected outcome range is fairly bounded by the rates I'm willing to accept vs the rates clients are willing to pay, & most often will fall somewhere in the middle. Of course it's always possible that some extreme outlier event occurs, or an enormous non-monetary impact is achieved, but we're working in the realm of average outcomes & [expected value](https://en.wikipedia.org/wiki/Expected_value) here. 
-      - **Interdependencies**: The theory depicted here is that the other 3 pillars all might contribute fairly strongly to freelance work (e.g. by generating interest, growing network connections & referrals, etc). But freelance work will only contribute weakly back to them (e.g. by open-sourcing work projects, generating ideas for content creation, & growing the network of contacts & partnerships). And a happy client is often a repeat client or referrer, so freelance work can lead to more of itself. These hypotheses, like everything else in these frameworks, will have to be tested in practice & adjusted accordingly. (science!)  </details>
+      - **Interdependencies**: The theory depicted here is that the other 3 pillars all might contribute fairly strongly to freelance work (e.g. by generating interest, growing network connections & referrals, etc). But freelance work will only contribute weakly back to them (e.g. by open-sourcing work projects, generating ideas for content creation, & growing the network of contacts & partnerships). And a happy client is often a repeat client or referrer, so freelance work can lead to more of itself. These hypotheses, like everything else in these frameworks, will have to be tested in practice & adjusted accordingly. (science!) — **_2023 UPDATE:_** _see [🔄 Updates & Model Check](#-updates--model-check) section below_
+</details>
   
 <br>
 
@@ -81,3 +82,15 @@ As usual, we're not entirely satisfied with these, but they served their immedia
       - freelance as 'safety net' fallback of safer bets but lower potential
 
 </details>
+
+---
+
+<details>
+<summary> 
+
+### 🔄 Updates & Model Check
+</summary>
+
+We've noted our **experience in practice vs the original theory of these models** in several [Public Work Logs](https://github.com/coemeta/public-work-log/) as of early 2023:
+  - **[2022.3.WSU](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md) (Winter Solstice Update) — Cycle Completion** (see **📜 Prologue & Epilogue ♻️: a TL;DR** in [Github](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md#-prologue--epilogue-%EF%B8%8F-a-tldr) or [Roam](https://roamresearch.com/#/app/coemeta/page/igLNY_Zql))
+  - **[2023.0.VEU](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md) (Vernal Equinox Update) — A New Cycle** (see **⏳ Timeline, _Mar 2023_** section in [Github](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md#-timeline) or [Roam](https://roamresearch.com/#/app/coemeta/page/FhFnuzGa2))
