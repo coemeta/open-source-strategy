@@ -76,6 +76,16 @@ _... (skipped 2 quarters due to circumstances, see corresponding [Public Work Lo
 
 - [2023 Q2 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
 
+---
+
+| `2023 Q3` | **Key Result 1** | **Key Result 2** | **Key Result 3** |
+| --- | --- | --- | --- | 
+| **Objective 1**: Infinite game engine (revenue strategy) | Sustain & share / reinvest past harvest | Sow seeds for alt income strategies | Generate 3 paying projects from other pillar activities |
+| **Objective 2**: Find the others (grow network & relations) | 3 hrs / week engaging w allied communities / platforms | convos with 9 folks re: indie mutual aid platform | Steward & sustain (& expand?) crew |
+| **Objective 3**: Serve & grow the game (commons, game~B) | Spec & prototype indie mutual aid platform mvp | 9 pod / vod convos | Ship 3 poasts & 3 tools |
+
+
+- [2023 Q3 — full sheet with evaluation](https://docs.google.com/spreadsheets/d/1n6hJT6jrhOidNj5GxofWSOBzpaqAFaLzKNSsZLEX0Dw/)
 </details>
   
 ---
@@ -91,5 +101,6 @@ _... (skipped 2 quarters due to circumstances, see corresponding [Public Work Lo
   - [2022 Q3](https://docs.google.com/spreadsheets/d/17A9nv2-wEIH5hiiCrrNYSSmv6eFlKlLDqBKcdoIErQg/)
   - ... _(skipped 2 quarters due to circumstances, see corresponding [Public Work Log](https://github.com/coemeta/public-work-log) entries: [1](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md), [2](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md))_
   - [2023 Q2](https://docs.google.com/spreadsheets/d/1PPdLsgDyGBRdkhxWy6r5Ff-_T1eNARAQhSGSjnxrhT0/)
+  - [2023 Q3](https://docs.google.com/spreadsheets/d/1n6hJT6jrhOidNj5GxofWSOBzpaqAFaLzKNSsZLEX0Dw/)
 
 </details>
