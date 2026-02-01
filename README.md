@@ -2,14 +2,14 @@
 
 # Coεmeta Open Source Strategy Repo
 
-This is the **Open Source Strategy** repository for [Coεmeta](https://coemeta.xyz), a Public Benefit LLC providing data & sensemaking services with positive externalities. It's intended as: 
+This is the **Open Source Strategy** repository for [Coεmeta](https://coemeta.xyz), a Public Benefit LLC working on [systemic regeneration through better information & collaboration](/frameworks/mission-and-vision.md). It's intended as: 
 
 - a **collection of open-access resources** for other freelancers, 'solopreneurs' or small orgs ([squads](https://otherinter.net/research/squad-wealth/) / [pods](https://handbook.enspiral.com/guides/pods) / [crews](https://www.microsolidarity.cc/practices/crewing) / [DAOs](https://ethereum.org/en/dao/) etc)
 - a **public record of our evolving strategy, planning & execution**
 - & a place for **collaboration, co-creation & collective sensemaking**
 
 As our [name](/name.md) reflects, Coεmeta is about **_finding truth together_**. \
-Making **better sense** for **better places** through **better information, relation & process**.
+Making **better sense** for a **better world**.
 
 This repo complements our [**Public Work Log**](https://github.com/coemeta/public-work-log), which offers a more narrative account of our journey & playbook as it develops. All of this is done in the spirit of **[working in public](https://nesslabs.com/work-in-public)**, contributing to **[knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons)**, "**finding the others**" & **leaving a trail + some resources** for those that follow. 
 
